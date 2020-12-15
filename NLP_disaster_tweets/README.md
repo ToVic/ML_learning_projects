@@ -1,8 +1,8 @@
 Kaggle competition: https://www.kaggle.com/c/nlp-getting-started/overview
 
-Best model so far: RNN (LSTM)
+Best model: CNN (CNN_tweaked model2)
 
-Best public score: 0.79 something
+Best public score: 0.79589
 
 I tried an alternative approach to this problem using not only RNN but also a CNN (it actually makes sense if you think about it)
 
